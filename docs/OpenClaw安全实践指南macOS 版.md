@@ -30,9 +30,9 @@
 创建 `$OC/workspace/SECURITY_POLICY.md`，在同目录 `AGENTS.md` 顶部明确引用，约束语句为：
 
 >在执行任何操作前，必须遵循 `SECURITY_POLICY.md`。如与其他工作区习惯冲突，以该文件为准。
->    -`AGENTS.md` 与 `SECURITY_POLICY.md` 属于安全边界文件
-   - 不得删除、覆盖、移动、改名、修改
->    - 不得对它们执行 `chflags nouchg`
+> - `AGENTS.md` 与 `SECURITY_POLICY.md` 属于安全边界文件
+> - 不得删除、覆盖、移动、改名、修改
+> - 不得对它们执行 `chflags nouchg`
    
 
 在得到部署命令后，将本安全实践指南写入 `SECURITY_POLICY.md`
