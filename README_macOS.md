@@ -10,7 +10,7 @@
 
 >请按照指南中的 Agent 辅助部署工作流执行。
 
-![[security_deploy_01.png]]
+![security_deploy_01](./img/security_deploy_01.png)
 
 看到 `0 critical` 就可以判断没有严重问题，可以继续与模型对话进行设置或修复
 
