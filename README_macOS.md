@@ -4,7 +4,7 @@
  将文档 「OpenClaw安全实践指南macOS 版」下载到用户目录，在 OpenClaw tui 中对话并指定你文档的位置
 
 >请阅读这份安全指南，在部署前先识别与我们当前环境可能存在的风险或冲突，工作区没有落地的文件是需要在你部署时创建的。
->文件位于`'./openclaw/OpenClaw 安全实践指南说明.md'`
+>文件位于`'~/openclaw/OpenClaw 安全实践指南说明.md'`
 
 确认基本没有什么大问题后，发送指令进行部署：
 
@@ -22,7 +22,7 @@ chflags uchg ~/.openclaw/workspace/SECURITY_POLICY.md
 ```
 
    
-解除是：
+需要修改时使用解除：
 
 ```bash
 chflags nouchg ~/.openclaw/workspace/AGENTS.md
