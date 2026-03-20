@@ -2,9 +2,10 @@
 
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-blue.svg)](https://github.com/openclaw/openclaw)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Language](https://img.shields.io/badge/Language-English%20%7C%20中文-success)](#)
+[![Language|148](https://img.shields.io/badge/Language-English%20%7C%20中文-success)](#)
 
 *Read this in other languages: [English](README.md), [简体中文](README_zh-CN.md).*
+*Read [macOS Version](README_macos) in 简体中文* 
 
 A definitive security practice guide designed specifically for **High-Privilege Autonomous AI Agents** (OpenClaw). It shifts the paradigm from traditional "host-based static defense" to "Agentic Zero-Trust Architecture", effectively mitigating risks like destructive operations, prompt injection, supply chain poisoning, and high-risk business logic execution.
 
